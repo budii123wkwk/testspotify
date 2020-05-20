@@ -16,15 +16,15 @@ echo "Auto Create Spotify Account\n";
 echo "===========================\n";
 echo "\n";
 echo "USERNAME EMAIL?"; echo " ex: anjaymabar\n";
-echo "=> " ;
+echo "=> " ;Compeny8
 $mau = trim(fgets(STDIN));
 echo "\n";
 echo "PASSWORD?"; echo " ex: esgebe\n";
-echo "=> " ;
+echo "=> " ;mencoba12345asd
 $pass = trim(fgets(STDIN));
 echo "\n";
 echo "BUAT BERAPA?"; echo " ex: 5\n";
-echo "=> " ;
+echo "=> " ;5
 $berapa = trim(fgets(STDIN));
 {
 for($i=0;$i<$berapa;$i++)
